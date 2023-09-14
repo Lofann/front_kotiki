@@ -1,6 +1,6 @@
 <template>
 <section>
-<h1>Исполнитель</h1>
+<h1>Раб</h1>
 </section>
 </template>
 
