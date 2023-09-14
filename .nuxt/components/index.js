@@ -1,4 +1,5 @@
 export { default as NavbarRole } from '../..\\components\\NavbarRole.vue'
+export { default as SelectorActivities } from '../..\\components\\SelectorActivities.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

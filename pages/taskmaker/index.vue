@@ -1,10 +1,14 @@
 <template>
-<section>
-<h1>Заказчик</h1>
-</section>
+  <section>
+      <SelectorActivities/>
+  </section>
 </template>
 
 <script>
+import SelectorActivities from '~/components/SelectorActivities.vue';
 export default {
+    components:{
+       SelectorActivities,
+      },
 }
 </script>

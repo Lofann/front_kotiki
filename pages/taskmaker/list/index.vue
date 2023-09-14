@@ -1,6 +1,5 @@
 <template>
-  <section>
-  </section>
+  <h1>СПИСОК УМПАЛУМП</h1>
 </template>
 
 <script>
