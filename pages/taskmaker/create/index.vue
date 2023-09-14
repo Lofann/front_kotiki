@@ -1,6 +1,5 @@
 <template>
-  <section>
-  </section>
+  <h1>ФОРМА СОЗДАНИЯ</h1>
 </template>
 
 <script>

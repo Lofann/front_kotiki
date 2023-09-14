@@ -3,30 +3,49 @@
     "name": "consultant",
     "path": "/consultant",
     "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\index.vue",
-    "chunkName": "pages/consultant/index"
+    "chunkName": "pages/consultant/index",
+    "_name": "_c82fe0fc"
   },
   {
     "name": "taskmaker",
     "path": "/taskmaker",
     "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\index.vue",
-    "chunkName": "pages/taskmaker/index"
+    "chunkName": "pages/taskmaker/index",
+    "_name": "_5ce3f950"
   },
   {
     "name": "worker",
     "path": "/worker",
     "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\worker\\\\index.vue",
-    "chunkName": "pages/worker/index"
+    "chunkName": "pages/worker/index",
+    "_name": "_0f8d641f"
   },
   {
     "name": "consultant-create",
     "path": "/consultant/create",
     "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\create\\\\index.vue",
-    "chunkName": "pages/consultant/create/index"
+    "chunkName": "pages/consultant/create/index",
+    "_name": "_395f8586"
+  },
+  {
+    "name": "taskmaker-create",
+    "path": "/taskmaker/create",
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\create\\\\index.vue",
+    "chunkName": "pages/taskmaker/create/index",
+    "_name": "_3ed17948"
+  },
+  {
+    "name": "taskmaker-list",
+    "path": "/taskmaker/list",
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\list\\\\index.vue",
+    "chunkName": "pages/taskmaker/list/index",
+    "_name": "_c42d440c"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_3efd70dd"
   }
 ]

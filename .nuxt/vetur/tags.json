@@ -1,5 +1,8 @@
 {
   "NavbarRole": {
     "description": "Auto imported from components/NavbarRole.vue"
+  },
+  "SelectorActivities": {
+    "description": "Auto imported from components/SelectorActivities.vue"
   }
 }
