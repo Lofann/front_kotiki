@@ -2,27 +2,46 @@
   {
     "name": "consultant",
     "path": "/consultant",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\index.vue",
     "chunkName": "pages/consultant/index",
     "_name": "_746aded6"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\index.vue",
+    "chunkName": "pages/consultant/index",
+    "_name": "_c82fe0fc"
+>>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
   },
   {
     "name": "taskmaker",
     "path": "/taskmaker",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\index.vue",
     "chunkName": "pages/taskmaker/index",
     "_name": "_acc4d836"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\index.vue",
+    "chunkName": "pages/taskmaker/index",
+    "_name": "_5ce3f950"
+>>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
   },
   {
     "name": "worker",
     "path": "/worker",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\worker\\\\index.vue",
     "chunkName": "pages/worker/index",
     "_name": "_432966b2"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\worker\\\\index.vue",
+    "chunkName": "pages/worker/index",
+    "_name": "_0f8d641f"
+>>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
   },
   {
     "name": "consultant-create",
     "path": "/consultant/create",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\create\\\\index.vue",
     "chunkName": "pages/consultant/create/index",
     "_name": "_437578ce"
@@ -40,12 +59,23 @@
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\list\\\\index.vue",
     "chunkName": "pages/taskmaker/list/index",
     "_name": "_da48de72"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\create\\\\index.vue",
+    "chunkName": "pages/consultant/create/index",
+    "_name": "_395f8586"
+>>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
   },
   {
     "name": "index",
     "path": "/",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "_name": "_1262b670"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3efd70dd"
+>>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
   }
 ]
