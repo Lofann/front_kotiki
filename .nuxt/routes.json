@@ -1,0 +1,32 @@
+[
+  {
+    "name": "consultant",
+    "path": "/consultant",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\index.vue",
+    "chunkName": "pages/consultant/index"
+  },
+  {
+    "name": "taskmaker",
+    "path": "/taskmaker",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\index.vue",
+    "chunkName": "pages/taskmaker/index"
+  },
+  {
+    "name": "worker",
+    "path": "/worker",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\worker\\\\index.vue",
+    "chunkName": "pages/worker/index"
+  },
+  {
+    "name": "consultant-create",
+    "path": "/consultant/create",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\create\\\\index.vue",
+    "chunkName": "pages/consultant/create/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
