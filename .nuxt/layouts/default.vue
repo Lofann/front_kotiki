@@ -1,16 +1,3 @@
 <template>
-  <div>
-    <NavbarRole/>
-    <Nuxt />
-  </div>
-
+  <Nuxt />
 </template>
-
-<script>
-import NavbarRole from "/components/NavbarRole"
-export default{
-  components:{
-    NavbarRole
-  }
-}
-</script>

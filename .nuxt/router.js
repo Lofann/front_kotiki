@@ -4,7 +4,6 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-<<<<<<< HEAD
 const _746aded6 = () => interopDefault(import('..\\pages\\consultant\\index.vue' /* webpackChunkName: "pages/consultant/index" */))
 const _acc4d836 = () => interopDefault(import('..\\pages\\taskmaker\\index.vue' /* webpackChunkName: "pages/taskmaker/index" */))
 const _432966b2 = () => interopDefault(import('..\\pages\\worker\\index.vue' /* webpackChunkName: "pages/worker/index" */))
@@ -12,13 +11,6 @@ const _437578ce = () => interopDefault(import('..\\pages\\consultant\\create\\in
 const _61c7f6e9 = () => interopDefault(import('..\\pages\\taskmaker\\create\\index.vue' /* webpackChunkName: "pages/taskmaker/create/index" */))
 const _da48de72 = () => interopDefault(import('..\\pages\\taskmaker\\list\\index.vue' /* webpackChunkName: "pages/taskmaker/list/index" */))
 const _1262b670 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
-=======
-const _c82fe0fc = () => interopDefault(import('..\\pages\\consultant\\index.vue' /* webpackChunkName: "pages/consultant/index" */))
-const _5ce3f950 = () => interopDefault(import('..\\pages\\taskmaker\\index.vue' /* webpackChunkName: "pages/taskmaker/index" */))
-const _0f8d641f = () => interopDefault(import('..\\pages\\worker\\index.vue' /* webpackChunkName: "pages/worker/index" */))
-const _395f8586 = () => interopDefault(import('..\\pages\\consultant\\create\\index.vue' /* webpackChunkName: "pages/consultant/create/index" */))
-const _3efd70dd = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
->>>>>>> 63b78ac06fb903dc1b1df0f799d2262d2f48b89e
 
 const emptyFn = () => {}
 
@@ -33,19 +25,19 @@ export const routerOptions = {
 
   routes: [{
     path: "/consultant",
-    component: _c82fe0fc,
+    component: _746aded6,
     name: "consultant"
   }, {
     path: "/taskmaker",
-    component: _5ce3f950,
+    component: _acc4d836,
     name: "taskmaker"
   }, {
     path: "/worker",
-    component: _0f8d641f,
+    component: _432966b2,
     name: "worker"
   }, {
     path: "/consultant/create",
-    component: _395f8586,
+    component: _437578ce,
     name: "consultant-create"
   }, {
     path: "/taskmaker/create",
@@ -57,7 +49,7 @@ export const routerOptions = {
     name: "taskmaker-list"
   }, {
     path: "/",
-    component: _3efd70dd,
+    component: _1262b670,
     name: "index"
   }],
 
