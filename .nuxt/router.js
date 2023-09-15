@@ -11,6 +11,7 @@ const _437578ce = () => interopDefault(import('..\\pages\\consultant\\create\\in
 const _61c7f6e9 = () => interopDefault(import('..\\pages\\taskmaker\\create\\index.vue' /* webpackChunkName: "pages/taskmaker/create/index" */))
 const _da48de72 = () => interopDefault(import('..\\pages\\taskmaker\\list\\index.vue' /* webpackChunkName: "pages/taskmaker/list/index" */))
 const _1262b670 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _03d518ef = () => interopDefault(import('..\\pages\\taskmaker\\list\\_id.vue' /* webpackChunkName: "pages/taskmaker/list/_id" */))
 
 const emptyFn = () => {}
 
@@ -51,6 +52,10 @@ export const routerOptions = {
     path: "/",
     component: _1262b670,
     name: "index"
+  }, {
+    path: "/taskmaker/list/:id",
+    component: _03d518ef,
+    name: "taskmaker-list-id"
   }],
 
   fallback: false
