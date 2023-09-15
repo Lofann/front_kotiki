@@ -1,4 +1,7 @@
 {
+  "ItemWorkerList": {
+    "description": "Auto imported from components/ItemWorkerList.vue"
+  },
   "NavbarRole": {
     "description": "Auto imported from components/NavbarRole.vue"
   },

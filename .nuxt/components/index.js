@@ -1,3 +1,4 @@
+export { default as ItemWorkerList } from '../..\\components\\ItemWorkerList.vue'
 export { default as NavbarRole } from '../..\\components\\NavbarRole.vue'
 export { default as SelectorActivities } from '../..\\components\\SelectorActivities.vue'
 

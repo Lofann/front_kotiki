@@ -3,42 +3,56 @@
     "name": "consultant",
     "path": "/consultant",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\index.vue",
-    "chunkName": "pages/consultant/index"
+    "chunkName": "pages/consultant/index",
+    "_name": "_746aded6"
   },
   {
     "name": "taskmaker",
     "path": "/taskmaker",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\index.vue",
-    "chunkName": "pages/taskmaker/index"
+    "chunkName": "pages/taskmaker/index",
+    "_name": "_acc4d836"
   },
   {
     "name": "worker",
     "path": "/worker",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\worker\\\\index.vue",
-    "chunkName": "pages/worker/index"
+    "chunkName": "pages/worker/index",
+    "_name": "_432966b2"
   },
   {
     "name": "consultant-create",
     "path": "/consultant/create",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\create\\\\index.vue",
-    "chunkName": "pages/consultant/create/index"
+    "chunkName": "pages/consultant/create/index",
+    "_name": "_437578ce"
   },
   {
     "name": "taskmaker-create",
     "path": "/taskmaker/create",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\create\\\\index.vue",
-    "chunkName": "pages/taskmaker/create/index"
+    "chunkName": "pages/taskmaker/create/index",
+    "_name": "_61c7f6e9"
   },
   {
     "name": "taskmaker-list",
     "path": "/taskmaker/list",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\list\\\\index.vue",
-    "chunkName": "pages/taskmaker/list/index"
+    "chunkName": "pages/taskmaker/list/index",
+    "_name": "_da48de72"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_1262b670"
+  },
+  {
+    "name": "taskmaker-list-id",
+    "path": "/taskmaker/list/:id",
+    "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\list\\\\_id.vue",
+    "chunkName": "pages/taskmaker/list/_id",
+    "_name": "_03d518ef"
   }
 ]
