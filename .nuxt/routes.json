@@ -2,50 +2,92 @@
   {
     "name": "consultant",
     "path": "/consultant",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\index.vue",
     "chunkName": "pages/consultant/index",
     "_name": "_746aded6"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\index.vue",
+    "chunkName": "pages/consultant/index",
+    "_name": "_c82fe0fc"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "taskmaker",
     "path": "/taskmaker",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\index.vue",
     "chunkName": "pages/taskmaker/index",
     "_name": "_acc4d836"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\index.vue",
+    "chunkName": "pages/taskmaker/index",
+    "_name": "_5ce3f950"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "worker",
     "path": "/worker",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\worker\\\\index.vue",
     "chunkName": "pages/worker/index",
     "_name": "_432966b2"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\worker\\\\index.vue",
+    "chunkName": "pages/worker/index",
+    "_name": "_0f8d641f"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "consultant-create",
     "path": "/consultant/create",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\consultant\\\\create\\\\index.vue",
     "chunkName": "pages/consultant/create/index",
     "_name": "_437578ce"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\consultant\\\\create\\\\index.vue",
+    "chunkName": "pages/consultant/create/index",
+    "_name": "_395f8586"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "taskmaker-create",
     "path": "/taskmaker/create",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\create\\\\index.vue",
     "chunkName": "pages/taskmaker/create/index",
     "_name": "_61c7f6e9"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\create\\\\index.vue",
+    "chunkName": "pages/taskmaker/create/index",
+    "_name": "_3ed17948"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "taskmaker-list",
     "path": "/taskmaker/list",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\taskmaker\\\\list\\\\index.vue",
     "chunkName": "pages/taskmaker/list/index",
     "_name": "_da48de72"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\taskmaker\\\\list\\\\index.vue",
+    "chunkName": "pages/taskmaker/list/index",
+    "_name": "_c42d440c"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   },
   {
     "name": "index",
     "path": "/",
+<<<<<<< HEAD
     "component": "C:\\\\Users\\\\aleks\\\\Desktop\\\\панккотикик\\\\front\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
     "_name": "_1262b670"
+=======
+    "component": "C:\\\\Users\\\\i_she\\\\OneDrive\\\\Рабочий стол\\\\punkotiki\\\\front_kotiki\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3efd70dd"
+>>>>>>> 5e3dc1693a2cf31651e0651f305f97f430dbfee2
   }
 ]
